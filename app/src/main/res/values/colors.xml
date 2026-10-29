@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="hextech_bg_dark">#091428</color>
+    <color name="hextech_card_bg">#0A1E36</color>
+    <color name="hextech_gold">#C89B3C</color>
+    <color name="hextech_gold_light">#F0E6D2</color>
+    <color name="hextech_cyan">#0AC8B9</color>
+    <color name="hextech_cyan_dark">#005A82</color>
+    <color name="hextech_text_primary">#F0E6D2</color>
+    <color name="hextech_text_secondary">#A09B8C</color>
+    <color name="hextech_danger">#E84057</color>
+    <color name="hextech_success">#00C896</color>
+</resources>
